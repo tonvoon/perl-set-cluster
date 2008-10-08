@@ -28,7 +28,7 @@ use warnings;
 
 use Carp;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 sub new {
 	my $class = shift;
@@ -305,11 +305,11 @@ hits version 1.0, but every attempt will be made to make backwards compatible.
 
 =head1 AUTHOR
 
-Ton Voon, E<lt>ton.voon@altinity.comE<gt>
+Ton Voon, E<lt>ton.voon@opsera.comE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2006 by Altinity Limited
+Copyright (C) 2006-2008 Opsera Limited. All rights reserved
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.4 or,

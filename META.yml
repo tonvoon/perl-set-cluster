@@ -1,5 +1,5 @@
 abstract: Split items across nodes, and show takeovers in failure scenarios
-author: Ton Voon, <ton.voon@altinity.com>
+author: Ton Voon, <ton.voon@opsera.com>
 distribution_type: module
 generated_by: Module::Install version 0.63
 license: perl

@@ -1,5 +1,8 @@
 This file documents the revision history for Set::Cluster.
 
+0.03 ??
+	- Assign copyright to Opsera
+
 0.02 2006-07-03
 	- Added support for node names where they are objects
 	- Added $c->hash_by_item returns a lookup of items -> node
